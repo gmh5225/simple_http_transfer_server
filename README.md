@@ -10,7 +10,7 @@ This is a simple Python http server that allows you to transfer files through a 
     python3 simple_http_transfer_server.py --port 8080
     ```
 
-    If no port is specified, it will default to 8000.
+    If no port is specified, it will default to 54321.
 
 2. Open your web browser and go to the following address:
 
