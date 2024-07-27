@@ -15,5 +15,5 @@ This is a simple Python http server that allows you to transfer files through a 
 2. Open your web browser and go to the following address:
 
     ```
-    http://<your-local-ip>:<port>/uploads
+    http://<your-local-ip>:<port>
     ```
