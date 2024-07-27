@@ -150,7 +150,7 @@ def get_local_ip():
 
 def main():
     parser = argparse.ArgumentParser(description='Simple file upload server.')
-    parser.add_argument('--port', type=int, default=8000, help='Port to listen on (default: 8000)')
+    parser.add_argument('--port', type=int, default=54321, help='Port to listen on (default: 54321)')
     args = parser.parse_args()
     
     port = args.port
